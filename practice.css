@@ -1,0 +1,71 @@
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+div {
+    min-height: 100vh ;
+    display: flex;
+    /* padding-top: 100px; */
+    /* align-items: center; */
+    font-weight: 100;
+    justify-content: center;
+   
+}
+
+
+.bg-1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background: url(https://lh3.googleusercontent.com/AbJxoRHZ_Ti0Ypv25XnrNomyO0NWu8ntnrcXO2cL5q7cQ_22OzmJuCYSNyE27mTz3zKYnrPkd24EyAeSRn89ODEjZlx0FZ0e7SqYIiEKuOa7neXsQxZjG7idZodq7lGeipIH0VQ5=w2400);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-bottom: 4px solid white;
+    /* justify-content: left; */
+    /* align-content: 300px; */
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 500;
+}
+
+
+.bg-2{
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color: azure;
+     background: url(https://lh3.googleusercontent.com/11Zu9NXWaQ_TbUFFyJBL3OBJYw2THM8_bst56eC1l-A2ou8w6uNSCo_sFAOIx8gBoaEe8DQ8M4dhK9H2lu0XcXIxFZOrbMpJH0k95ElpCb2kT_hkSrAnUq3s4yuqAtlKPqrtMIhd=w2400);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-bottom: 4px solid white;
+    /* justify-content: right; */
+    align-content: center;
+    background-attachment: fixed;
+    }
+
+.bg-3{
+    font-family:'Times New Roman', Times, serif;
+     color: white ;
+     background: url(https://lh3.googleusercontent.com/VKJ0kFUkfBUhjFB-IgQoyLtwR654cyZ-ZCbpjSIaJ9R9Rk4gE4RrEb8ojwhAbgixEM2Mkv5FReVl1L_b2WgqV3boDO62Rqvk2rl79QooI_RD0MKEppMC4MfXitko6HKu7PfctR0P=w2400);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    padding-top: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: lighter;
+    /* justify-content: right; */
+    align-content: center;
+    background-attachment: fixed;
+ }
